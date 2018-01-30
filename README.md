@@ -1,2 +1,5 @@
 # hello-world
 ideas collection
+
+
+The future is already here — it’s just not very evenly distributed. -- William Gibson

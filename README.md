@@ -15,7 +15,17 @@ Some terms:
 * fetch
 * status and diff
 
-
+# Handle branches across the forks
+* Fetch a branch from upstream to origin (your fork)
+    * check status: `$ git remote -v`  
+    * add upstream: `$ git remote add upstream link-to-where-you-forked`  
+    * fetch branch update from upstream: `$ git fetch upstream`  
+    * create the branch locally and start tracking: `$ git checkout branch-to-focus`  
+    * push the new local branch to your repo (origin): `$ git push origin`  
+    * (optional) remove tracking on upstream: `$ git remote rm upstream`  
+  
+* Prune the branches already deleted: `$ git fetch -p`  
+  
 # Submmodule  
 You can add another git repo into your project as a submodule. In that case, the folder will have a mark with @ hash. 
 * To add : `$ git submodule add link-to-repo`  

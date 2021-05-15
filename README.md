@@ -3,6 +3,19 @@
 # Hello GitWorld
 This is the git playground. You can learn and try git tricks here. 
 
+# Git basic
+Some terms:
+* Fork
+* Branch
+* Clone
+* Remote
+* Origin and upstream
+* Pull and Push
+* Pull request
+* fetch
+* status and diff
+
+
 # Submmodule  
 You can add another git repo into your project as a submodule. In that case, the folder will have a mark with @ hash. 
 * To add : `$ git submodule add link-to-repo`  

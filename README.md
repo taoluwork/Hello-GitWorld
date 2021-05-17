@@ -28,8 +28,12 @@ Some terms:
 * Prune the branches already deleted: `$ git fetch -p`  
 * Delete the local merged branch: `$ git branch -d name_of_branch`  
 * List all the branches: `$ git branch -a`  
-* Check if you have anything to push (not checking pull): `$ git status`
-  
+* Check if you have anything to push (not checking pull): `$ git status`  
+
+## Delete a remote branch  
+* `$ git push origin --delete feature/login`  
+
+
 # Submmodule  
 You can add another git repo into your project as a submodule. In that case, the folder will have a mark with @ hash. 
 * To add : `$ git submodule add link-to-repo`  

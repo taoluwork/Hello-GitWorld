@@ -42,3 +42,7 @@ You can add another git repo into your project as a submodule. In that case, the
 
 Reference: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
+
+# Using git with SSH key  
+https://docs.github.com/en/github/authenticating-to-github/about-ssh
+

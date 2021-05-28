@@ -46,3 +46,5 @@ Reference: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 # Using git with SSH key  
 https://docs.github.com/en/github/authenticating-to-github/about-ssh
 
+# A good practice of git branching
+https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy#:~:text=GitHub%20Flow%20Considerations&text=Any%20code%20in%20the%20main,push%20work%20to%20the%20remote.
